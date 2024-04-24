@@ -7,7 +7,7 @@ More information about appdb push notification service can be found on [Document
 ## Installation
 
 ```
-composer require appdb/php-attest-validator
+composer require appdb/php-push-sender
 ```
 
 ## Sending of push notification (sample code)

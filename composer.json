@@ -2,6 +2,7 @@
     "name": "appdb/php-push-sender",
     "description": "PHP library to send push notifications via appdb push service",
     "type": "library",
+    "version": "1.0.1",
     "require": {
         "guzzlehttp/guzzle": "^7.8"
     },
