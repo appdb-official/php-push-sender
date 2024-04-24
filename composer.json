@@ -1,0 +1,20 @@
+{
+    "name": "appdb/php-push-sender",
+    "description": "PHP library to send push notifications via appdb push service",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Appdb\\PhpPushSender\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "appdb",
+            "email": "contact@dbservices.to"
+        }
+    ]
+}
